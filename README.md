@@ -1,4 +1,5 @@
 # Урок PS03
-   - Домашнее задание лежит в файле ***main***
+   - Домашнее задание находиться в ***my-first-site/homework/homework/spiders
+/divannewpars.py***
    
  
